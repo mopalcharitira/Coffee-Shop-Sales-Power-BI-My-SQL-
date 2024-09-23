@@ -11,4 +11,3 @@ This project aims to provide an in-depth analysis of sales data for a coffee sho
 - **Power BI**: For data visualization and dashboard creation.
 - **MySQL**: For database management and data storage.
 - **SQL**: For data querying.
-- **Python (optional)**: For any data preprocessing if needed.
